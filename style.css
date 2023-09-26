@@ -1,0 +1,27 @@
+{
+  box-sizing: border-box;
+}
+div {
+  padding: 20px;
+  overflow: hidden;
+}
+input[type="text"],
+textarea,
+select {
+  font: 17px Calibri;
+  color:white;
+  width: 550;
+  padding: 12px;
+  background-color:DimGrey;
+  border: 1px solid #ccc;
+  border-radius: 15px 50px 30px;
+
+}
+input[type="button"] {
+  font: 23px Calibri;
+  border-radius:15px 50px;
+  width: 150;
+  background-color:DarkGray;
+  cursor: pointer;
+  padding: 10px;
+}
